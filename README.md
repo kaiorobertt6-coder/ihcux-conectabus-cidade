@@ -21,7 +21,6 @@ Por isso, a interface foi projetada para permitir uso com apenas um polegar, com
 
 ## 🎨 Decisões de UX
 
-### Hierarquia da Informação
 O **tempo de chegada** foi destacado como a informação mais importante, pois impacta diretamente a decisão do usuário.
 
 Ordem de prioridade:
