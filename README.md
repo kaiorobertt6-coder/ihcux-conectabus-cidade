@@ -1,5 +1,4 @@
-# ConectaBus – Protótipo de Baixa Fidelidade
-
+# ConectaBus 
 ## 👨‍🎓 Aluno
 - Kaio Moreira
 - Icaro Ferreira
