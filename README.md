@@ -80,7 +80,3 @@ Ao perder sinal, o aplicativo mantém:
 - Última rota carregada;
 - QR Code salvo;
 - Alertas de conexão.
-
----
-│   └── prototipo.pdf
-│── README.md
